@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Monthly Speaker Events 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### July 2020
+[Visualizing Deep Learning with Tensor Board](/pdf/July2020_JoePapa_TensorboardWithPyTorch.pdf)
+Speaker: [Joe Papa](https://www.linkedin.com/in/mrjoepapa/)
+Detail: Tensorboard is a powerful visualization toolkit for deep learning research and development. Its visualization capabilities, once reserved for Tensorflow, are now natively supported by PyTorch.
+
+<!--
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -27,7 +31,7 @@
 
 ---
 
-
+-->
 
 
 ---
