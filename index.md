@@ -9,6 +9,6 @@
 - Speaker: [Joe Papa](https://www.linkedin.com/in/mrjoepapa/). 
 - Detail: Tensorboard is a powerful visualization toolkit for deep learning research and development. Its visualization capabilities, once reserved for Tensorflow, are now natively supported by PyTorch.
 
-#### Workshops 2020 
-[Workshops 2020](https://dataphilly.github.io/Workshops/)
+#### [Workshops 2020](https://dataphilly.github.io/Workshops/). 
+Click on Workshops_2020 to find details on all the online interactive workshops and links to slides and data files from each workshop.
 
